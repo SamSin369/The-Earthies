@@ -62,7 +62,7 @@ export const Banner = () => {
                 <span className="tagline">The Earthies 🌎🌍🌏</span>
                 <h1>{`A Show About`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                 <div className="btn">
-                <a href="https://docs.google.com/document/d/1eAUxP2C17tgB1KF7S4FxU112xrNR-gg7_Duy46FrBdI/edit">Read The Manifesto</a>
+                <a href="https://docs.google.com/document/d/1eAUxP2C17tgB1KF7S4FxU112xrNR-gg7_Duy46FrBdI/edit?usp=sharing">Read The Manifesto</a>
     </div>
     
               </div>}
